@@ -1,0 +1,17 @@
+body {
+    background-color: #1f2241;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+.btn-primary{
+    background-color: white;
+    color: #1f2241;
+   backdrop-filter: drop-shadow(4px 4px 10px blue);
+   font-weight: 600;
+   border: 0;
+}
+.btn-primary:hover{
+    border: 1px solid white;
+    background-color: transparent;
+    color: white;
+    
+}
